@@ -17,5 +17,8 @@ The link for the datasets download is: https://www.kaggle.com/c/3539/download-al
 5. Making machine learning model
 6. Deployment of machine learning model
 
-### Word Cloud
-![Normal Eye v/s Diabetic Retinopathy Eye](/Images/img0.PNG)
+#### Word Cloud
+![Word CLoud](/Images/word cloud.png)
+
+#### Frequency of top 20 tags
+![Frequency of top 20 tags](/Images/Frequency of top 20 tags.png)
