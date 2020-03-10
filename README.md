@@ -18,7 +18,7 @@ The link for the datasets download is: https://www.kaggle.com/c/3539/download-al
 6. Deployment of machine learning model
 
 #### Word Cloud
-![Word CLoud](/Images/word cloud.png)
+![Word CLoud](https://github.com/pdm2941999/Autotagging-of-Question-and-Answers-of-Stackoverflow-Questions/blob/master/Images/word%20cloud.png)
 
 #### Frequency of top 20 tags
-![Frequency of top 20 tags](/Images/Frequency of top 20 tags.png)
+![Frequency of top 20 tags](https://github.com/pdm2941999/Autotagging-of-Question-and-Answers-of-Stackoverflow-Questions/blob/master/Images/Frequency%20of%20top%2020%20tags.png)
