@@ -5,4 +5,17 @@ This is a multi label classification text classification problem. The task is to
 The dataset is downloaded from kaggle competition: Facebook Recruiting III -Keyword Extraction. 
 The link for the datasets download is: https://www.kaggle.com/c/3539/download-all
 
-## Steps for multilabel text classification problem
+### Steps for multilabel text classification problem:
+1. Importing Libraries
+2. Loading Data: The datasets must be converted into .feather format using <b> pandas.feather </b> so as to fast read and write operations on data.
+3. Data Preprocessing:-
+  a. Removing data duplicacy
+  b. Removing HTML Tags
+  c. Removing punctuation and special symbols
+  d. Tokenization and Stemming
+4. Using Tfvectorizer, convert all tags into one hot encoding for multilabel classification
+5. Making machine learning model
+6. Deployment of machine learning model
+
+### Word Cloud
+![Normal Eye v/s Diabetic Retinopathy Eye](/Images/img0.PNG)
